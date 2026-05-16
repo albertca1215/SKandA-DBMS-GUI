@@ -1,3 +1,5 @@
+Copy of the source code I'd contributed to at https://github.com/ddulmai1/COSC578 for Database Management Systems I.
+
 Source code for SK&A Database, COSC 578, by Dylan Dulmaine, Zora Johnson, Samyog Panta, and Albert Cantoria.
 TO-DO: Create executable .jar file, once everything is known to work.
 Entry point file is SKA Database GUI\src\ska\SKADatabaseApp.java (Run this file on NetBeans).
